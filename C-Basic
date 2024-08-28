@@ -1,1 +1,10 @@
+#include<stdio.h>
+int main()
+{
 
+pintf("I am Mahir");
+
+
+return 0;
+
+}
