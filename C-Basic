@@ -2,7 +2,7 @@
 int main()
 {
 
-pintf("I am Mahir");
+printf("I am Mahir");
 
 
 return 0;
