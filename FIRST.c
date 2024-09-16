@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+
+
+
+
+printf("I am Mahir");
+
+
+return 0;
+}
